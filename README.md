@@ -1,6 +1,6 @@
 # Election Analysis System
 
-![Vote Count](images/election_results.png)
+<img src="images/elections.jpg" alt="Portfolio Overview" width="60%">
 
 ## Overview
 A Python application that automates the process of vote-counting for elections and generates detailed analysis reports.
